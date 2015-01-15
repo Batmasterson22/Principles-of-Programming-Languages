@@ -1,4 +1,4 @@
-//Jason R Hodges - 1205172549 
+//Jason R Hodges 
 //CSE 340 - Summer 2014
 //Project 04 - Code Generation
 
