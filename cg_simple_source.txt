@@ -1,0 +1,8 @@
+integer a;
+boolean b;
+{
+  a = 10;
+  b = true;
+  print a;
+  print b;
+}

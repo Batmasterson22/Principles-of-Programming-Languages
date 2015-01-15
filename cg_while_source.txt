@@ -1,0 +1,11 @@
+integer a, b, c, d;
+{
+  a = 1 + 2;
+  print a;
+  a = 10;
+  WHILE a > 1 {
+    a = a - 1;
+    print a;
+  }
+  print a;
+}
